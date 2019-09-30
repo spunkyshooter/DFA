@@ -1,5 +1,6 @@
 # DFA
 C++ programs for some deterministic finite automata.
+It shows the transitions of the states and the result whether it is accepted or not.
 
 Questions:
 1.  Design a DFA to accept all the strings over alphabet {0,1}
